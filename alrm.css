@@ -1,0 +1,72 @@
+
+body{
+    text-align: center;
+    left: 50%;
+    background-color: blanchedalmond;
+}
+
+/* ser background detaile and colore */
+.container{
+    background-color: aquamarine;
+    height: 60%;
+    width: 30%;
+    border-radius: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    margin-left: 33%;
+    margin-top: 10%;
+    border: 2px solid
+    red;
+}
+/* container hover */
+.container:hover{
+    background-color: beige;
+}
+
+.container h1{
+    border: 5px solid rosybrown;
+}
+
+.hours-minutes select{
+    border: 2px solid rosybrown ;
+    padding: 5px;
+}
+
+.container p{
+
+    rotate: 34deg;
+    opacity: 23%;
+
+}
+
+/* button */
+button{
+    background-color: darkcyan;
+    padding: 10px;
+    /* rotat; */
+    /* margin-top: 200px; */
+}
+
+
+
+h1{
+    font-weight:900;
+   
+}
+
+.value{
+    padding: 10000px;
+    color: red;
+}
+
+/* image setting */
+.container img{
+    height: 90px;
+    width: 90px;
+    margin: 5px;
+}
+
+
